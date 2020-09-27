@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     WebView webView;
 
-    private String webUrl = "https://google.com";
+    private String webUrl = "https://github.com";
 
     ProgressBar progressBarWeb;
     ProgressDialog progressDialog;
